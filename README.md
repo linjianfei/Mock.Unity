@@ -12,3 +12,4 @@ Mock View层
 - GameObject生命周期管理
 - Update驱动
 - 协程
+- PlayerPref
